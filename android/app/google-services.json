@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "103313602621",
+    "project_id": "book-list-sample-ab67c",
+    "storage_bucket": "book-list-sample-ab67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103313602621:android:62c9298ef775830eb3d254",
+        "android_client_info": {
+          "package_name": "com.example.book_list_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcndpdZcpo5VrWuR5mWXE8sVbfTdxDAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103313602621-561p7ckur3tg2410u70hhhfbkobcq04d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookListSample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103313602621:android:c6931d69f702dae7b3d254",
+        "android_client_info": {
+          "package_name": "com.example.firebase01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcndpdZcpo5VrWuR5mWXE8sVbfTdxDAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103313602621-561p7ckur3tg2410u70hhhfbkobcq04d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookListSample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103313602621:android:61952772fcaab8adb3d254",
+        "android_client_info": {
+          "package_name": "com.example.firebase01_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcndpdZcpo5VrWuR5mWXE8sVbfTdxDAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103313602621-561p7ckur3tg2410u70hhhfbkobcq04d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookListSample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103313602621:android:5e5839d77aadd850b3d254",
+        "android_client_info": {
+          "package_name": "com.example.memo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcndpdZcpo5VrWuR5mWXE8sVbfTdxDAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103313602621-1s2ersfhn0e7rik4klngl8iot1t8a8vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103313602621-561p7ckur3tg2410u70hhhfbkobcq04d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookListSample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
